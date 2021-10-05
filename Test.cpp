@@ -3,5 +3,8 @@ using namespace std;
 
 int main()
 {
-    cout<<min(5, 6);
+    int a, b;
+    cin>>a>>b;
+    
+    cout<<min(a,b);
 }
